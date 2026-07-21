@@ -171,18 +171,6 @@ Provides an executive summary of the company's financial position, including:
 
 ![Dashboard Preview](./Coca-Cola_Dashboard.png)
 
----
-
-## Project Deliverables
-
-This repository contains:
-
-- Financial Analysis Report (MBA Submission)
-- Excel Workbook (Calculations & Dashboard)
-- Dashboard PDF Export
-- Dashboard Preview Image
-- Project Documentation
-
 --
 
 ## Repository Structure
@@ -192,6 +180,7 @@ Coca-Cola-Financial-Analysis/
 │
 ├── README.md
 ├── Coca-Cola_Financial_Analysis.xlsx
+├── Coca-Cola_Financial_Report.pdf
 ├── Coca-Cola_Financial_Dashboard.pdf
 └── Coca-Cola_Dashboard.png
 ```
