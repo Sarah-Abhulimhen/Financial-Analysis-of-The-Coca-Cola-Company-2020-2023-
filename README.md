@@ -2,7 +2,6 @@
 
 ![Excel](https://img.shields.io/badge/Excel-Financial%20Analysis-green?logo=microsoftexcel)
 ![Finance](https://img.shields.io/badge/Corporate%20Finance-Investment%20Analysis-blue)
-![MBA](https://img.shields.io/badge/MBA-Distinction-success)
 
 A comprehensive financial analysis project evaluating The Coca-Cola Company's investment potential between 2020 and 2023 using the CORE Framework (Context, Overview, Ratios, Evaluation), financial ratio analysis, SWOT Analysis, and Porter's Five Forces.
 
@@ -10,8 +9,6 @@ A comprehensive financial analysis project evaluating The Coca-Cola Company's in
 
 ## Project Outcome
 
-- Achieved a **Distinction (74%)**
-- MBA Financial Analysis Assessment
 - Applied the CORE Framework
 - Conducted Strategic & Financial Analysis
 - Delivered an Investment Recommendation
