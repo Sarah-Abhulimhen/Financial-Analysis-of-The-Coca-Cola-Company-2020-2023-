@@ -1,134 +1,99 @@
-# Financial Analysis of The Coca-Cola Company (2020–2023)
+# Financial Analysis – The Coca-Cola Company (2020–2023)
 
 ![Excel](https://img.shields.io/badge/Excel-Financial%20Analysis-green?logo=microsoftexcel)
-![Finance](https://img.shields.io/badge/Corporate%20Finance-Investment%20Analysis-blue)
+![Financial Analysis](https://img.shields.io/badge/Analysis-Corporate%20Finance-blue)
 
-A comprehensive financial analysis project evaluating The Coca-Cola Company's investment potential between 2020 and 2023 using the CORE Framework (Context, Overview, Ratios, Evaluation), financial ratio analysis, SWOT Analysis, and Porter's Five Forces.
-
----
-
-## Project Outcome
-
-- Applied the CORE Framework
-- Conducted Strategic & Financial Analysis
-- Delivered an Investment Recommendation
+An end-to-end financial analysis project evaluating The Coca-Cola Company's financial performance between 2020 and 2023 using Microsoft Excel. The project applies ratio analysis and the CORE framework to assess profitability, liquidity, efficiency, capital structure, and investment potential.
 
 ---
 
 ## Project Overview
 
-This project evaluates whether The Coca-Cola Company represents a suitable investment opportunity for Software Solutions Plc based on its financial performance and strategic position between 2020 and 2023.
+This project was completed as part of an MBA Accounting & Finance module and investigates whether The Coca-Cola Company represents a viable long-term investment opportunity for a hypothetical client, Software Solutions.
 
-The analysis combines financial statement evaluation with strategic business analysis to provide an evidence-based investment recommendation.
+The analysis follows the CORE framework:
 
-The project follows a structured financial analysis workflow:
+- **Context**
+- **Overview**
+- **Ratios**
+- **Evaluation**
 
-- Context Analysis
-- Financial Statement Analysis
-- Ratio Analysis
-- Strategic Evaluation
-- Investment Assessment
-- Business Recommendations
+The project demonstrates the ability to analyze corporate financial statements, calculate key financial ratios, generate insights, and communicate business recommendations effectively.
 
 ---
 
 ## Business Problem
 
-> Should Software Solutions Plc invest in The Coca-Cola Company based on its financial performance, operational efficiency, and long-term growth potential?
+> Should Software Solutions invest in The Coca-Cola Company based on its financial performance and long-term growth potential between 2020 and 2023?
 
 ---
 
 ## Tools & Technologies
 
 | Tool | Purpose |
-|------|---------|
+|------|--------|
 | Microsoft Excel | Financial Analysis & Visualization |
-| Financial Statements | Performance Evaluation |
-| CORE Framework | Strategic Assessment |
-| SWOT Analysis | Internal & External Analysis |
-| Porter's Five Forces | Competitive Analysis |
+| Financial Statements | Source Data |
+| Ratio Analysis | Performance Evaluation |
+| Dashboard Design | Executive Reporting |
 | GitHub | Project Documentation |
-
----
-
-## Methodology
-
-This project applies the **CORE Framework (Context, Overview, Ratios, Evaluation)** to assess Coca-Cola's financial and strategic performance.
-
-### Context
-
-- SWOT Analysis
-- Porter's Five Forces
-- Industry & Competitive Analysis
-
-### Overview
-
-- Income Statement Trend Analysis
-- Balance Sheet Analysis
-- Revenue & Profitability Trends
-
-### Ratios
-
-- Profitability Ratios
-- Efficiency Ratios
-- Liquidity Ratios
-- Gearing Ratios
-- Investment Ratios
-
-### Evaluation
-
-- Financial Performance Assessment
-- Investment Potential Analysis
-- Strategic Recommendations
 
 ---
 
 ## Financial Metrics Analyzed
 
-| Category | Metrics |
-|---------|--------|
-| Profitability | ROCE, Operating Profit Margin, Return on Assets |
-| Efficiency | Inventory Turnover Days, Receivables Turnover Days |
-| Liquidity | Current Ratio, Quick Ratio |
-| Solvency | Gearing Ratio, Interest Coverage |
-| Investment | Earnings Per Share (EPS) |
+### Profitability
+
+- Return on Capital Employed (ROCE)
+- Operating Profit Margin
+- Return on Assets (ROA)
+
+### Efficiency
+
+- Inventory Turnover Days
+- Receivable Turnover Days
+
+### Liquidity
+
+- Current Ratio
+- Quick Ratio
+
+### Capital Structure
+
+- Interest Cover
+- Gearing Ratio
+
+### Investment Potential
+
+- Earnings Per Share (EPS)
 
 ---
 
-## Strategic Analysis
+## Methodology
 
-### SWOT Analysis
+The analysis was conducted using Microsoft's Excel suite and involved:
 
-#### Strengths
-- Strong global brand recognition
-- Presence in over 200 countries
-- Diversified portfolio of 500+ brands
+1. Reviewing Coca-Cola's financial statements (2020–2023)
+2. Organizing financial data into structured tables
+3. Calculating key financial ratios
+4. Creating visualizations to identify trends
+5. Evaluating the company's financial health
+6. Developing investment recommendations
 
-#### Weaknesses
-- Dependence on carbonated beverages
-- Rising operating costs
-- Reliance on third-party bottlers
+---
 
-#### Opportunities
-- Product diversification
-- Emerging market expansion
-- Sustainability initiatives
+## Dashboard Overview
 
-#### Threats
-- Increased competition
-- Changing consumer preferences
-- Environmental concerns
-- Regulatory pressures
+The Excel dashboard provides an executive-level summary of Coca-Cola's financial performance.
 
-### Porter's Five Forces
+### Visualizations Included
 
-| Force | Assessment |
-|------|-----------|
-| Competitive Rivalry | High |
-| Supplier Power | Low–Moderate |
-| Buyer Power | Low–Moderate |
-| Threat of New Entrants | Moderate |
-| Threat of Substitutes | High |
+- Revenue & Net Profit Trend (2020–2023)
+- Profitability Ratios Analysis
+- Liquidity Ratios Analysis
+- Efficiency Ratios Analysis
+- Capital Structure Analysis
+- Earnings Per Share (EPS) Trend
 
 ---
 
@@ -136,55 +101,34 @@ This project applies the **CORE Framework (Context, Overview, Ratios, Evaluation
 
 ### Revenue Growth
 
-- Revenue increased from **$33.01B in 2020** to **$45.75B in 2023**, representing approximately 39% growth.
-- Growth was driven by post-pandemic recovery, product innovation, and global expansion.
+- Revenue increased consistently from 2020 to 2023.
+- The company demonstrated strong post-pandemic recovery and sustained growth.
 
 ### Profitability
 
-- Return on Capital Employed (ROCE) increased from **12.38%** to **15.26%**.
-- Operating Profit Margin declined slightly from **27.3%** to **24.7%** due to increasing operating costs.
+- ROCE improved from 12.38% to 15.26%.
+- Operating margins remained above 24% despite rising costs.
+- Return on Assets recovered after a temporary decline in 2021.
 
 ### Liquidity
 
-- Current Ratio remained relatively stable between **1.13 and 1.32**, indicating strong short-term financial health.
+- Current and Quick Ratios remained stable across the period.
+- Coca-Cola maintained a strong ability to meet short-term obligations.
 
 ### Efficiency
 
-- Receivables Turnover Days improved from **35 days** to **27 days**, demonstrating improved cash collection practices.
+- Receivable Turnover Days decreased from 35 to 27 days.
+- Inventory Turnover Days remained relatively stable, indicating efficient inventory management.
 
 ### Capital Structure
 
-- Gearing Ratio decreased from **71%** to **63%**, reflecting reduced dependence on debt financing.
+- Gearing Ratio improved from 71% to 63%.
+- Interest Cover remained healthy throughout the analysis period.
 
 ### Investment Potential
 
-- Earnings Per Share (EPS) increased from **$1.39** to **$1.52** by 2023.
-- Coca-Cola remains a financially stable and attractive long-term investment opportunity.
-
----
-
-## Financial Visualizations
-
-The project includes Excel-based visualizations to support trend analysis and investment evaluation.
-
-### Income Statement Trends (2020–2023)
-
-Illustrates changes in:
-
-- Revenue
-- Operating Profit
-- Net Profit
-- Cost of Sales
-
-### Balance Sheet Trends (2020–2023)
-
-Visualizes:
-
-- Current Assets
-- Non-Current Assets
-- Current Liabilities
-- Non-Current Liabilities
-- Shareholder Equity
+- Earnings Per Share (EPS) increased from 1.39 to 1.52.
+- The upward trend suggests continued value creation for shareholders.
 
 ---
 
@@ -192,42 +136,40 @@ Visualizes:
 
 ### 1. Strengthen Cost Management
 
-- Implement cost optimization initiatives.
-- Improve operational efficiency across production and supply chains.
+- Continue implementing cost optimization initiatives to protect operating margins.
 
-### 2. Leverage Strong Capital Efficiency
+### 2. Invest in Growth Opportunities
 
-- Continue investing in innovation and digital transformation.
-- Expand into emerging international markets.
+- Leverage strong financial performance to expand into emerging markets and innovative product lines.
 
-### 3. Maintain Financial Stability
+### 3. Improve Operational Efficiency
 
-- Preserve a balanced capital structure.
-- Continue reducing long-term debt exposure.
+- Continue reducing receivable collection periods and enhancing operational processes.
 
-### 4. Accelerate Sustainability Initiatives
+### 4. Maintain Capital Discipline
 
-- Continue investing in sustainable packaging and environmental programs.
-- Strengthen ESG commitments.
+- Preserve a balanced capital structure to minimize financial risk.
 
-### 5. Expand Product Diversification
+### 5. Enhance Shareholder Value
 
-- Increase investment in healthier beverage alternatives.
-- Continue expanding non-carbonated product lines.
+- Sustain EPS growth through strategic investments and operational excellence.
 
 ---
 
-## Final Investment Recommendation
+## Dashboard
 
-Based on the CORE analysis, The Coca-Cola Company demonstrates:
+### Coca-Cola Financial Performance Dashboard
 
-- Strong Revenue Growth
-- Healthy Liquidity
-- Improving Capital Efficiency
-- Reduced Financial Risk
-- Stable Long-Term Performance
+Provides an executive summary of the company's financial position, including:
 
-**Recommendation:** Software Solutions Plc should consider investing in Coca-Cola as a minority shareholder due to its strong financial position and sustainable long-term growth potential.
+- Revenue & Net Profit Trends
+- Profitability Metrics
+- Liquidity Analysis
+- Efficiency Ratios
+- Capital Structure
+- Earnings Per Share
+
+![Dashboard Preview](./Coca-Cola_Dashboard.png)
 
 ---
 
@@ -237,35 +179,40 @@ Based on the CORE analysis, The Coca-Cola Company demonstrates:
 Coca-Cola-Financial-Analysis/
 │
 ├── README.md
-├── Coca_Cola_Report.pdf
-├── Ratio_and_Overview_Template.xlsx
-├── Income_Statement_Trends.png
-├── Balance_Sheet_Trends.png
-└── Images/
+├── Coca-Cola_Financial_Analysis.xlsx
+├── Coca-Cola_Financial_Dashboard.pdf
+└── Coca-Cola_Dashboard.png
 ```
 
 ---
 
 ## Skills Demonstrated
 
-- Financial Analysis
-- Corporate Finance
-- Investment Analysis
-- Strategic Analysis
-- Financial Modeling
+- Financial Statement Analysis
 - Ratio Analysis
-- SWOT Analysis
-- Porter's Five Forces
+- Financial Modeling
 - Data Visualization
-- Business Reporting
-- Critical Thinking
-- Executive Communication
+- Business Analysis
+- Corporate Finance
+- Dashboard Design
+- Executive Reporting
+- Data Storytelling
+- Microsoft Excel
+
+---
+
+## Project Outcome
+
+- Achieved a Distinction (74%)
+- Demonstrated strong analytical and critical thinking skills
+- Applied financial theory to a real-world business case
+- Delivered actionable investment recommendations
 
 ---
 
 ## Key Takeaway
 
-This project demonstrates the ability to evaluate a global organization using both financial and strategic frameworks while translating findings into actionable business recommendations—an essential skill for analysts working across finance, consulting, and business intelligence.
+This project demonstrates the ability to translate financial data into actionable business insights, evaluate investment opportunities, and communicate findings through professional reporting and dashboard design.
 
 ---
 
