@@ -173,6 +173,18 @@ Provides an executive summary of the company's financial position, including:
 
 ---
 
+## Project Deliverables
+
+This repository contains:
+
+- Financial Analysis Report (MBA Submission)
+- Excel Workbook (Calculations & Dashboard)
+- Dashboard PDF Export
+- Dashboard Preview Image
+- Project Documentation
+
+--
+
 ## Repository Structure
 
 ```text
