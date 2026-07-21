@@ -169,7 +169,7 @@ Provides an executive summary of the company's financial position, including:
 - Capital Structure
 - Earnings Per Share
 
-![Dashboard Preview](./Coca-Cola_Dashboard.png)
+![Dashboard Preview](./Coca-Cola_Dashboard.jpg)
 
 --
 
@@ -179,10 +179,10 @@ Provides an executive summary of the company's financial position, including:
 Coca-Cola-Financial-Analysis/
 │
 ├── README.md
+├── Coca-Cola_Financial_Analysis_Report.pdf
 ├── Coca-Cola_Financial_Analysis.xlsx
-├── Coca-Cola_Financial_Report.pdf
 ├── Coca-Cola_Financial_Dashboard.pdf
-└── Coca-Cola_Dashboard.png
+└── Coca-Cola_Dashboard.jpg
 ```
 
 ---
